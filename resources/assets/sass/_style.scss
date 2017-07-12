@@ -1,0 +1,90 @@
+
+.page-header .page-header-image {
+    position: absolute;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.page-header[filter-color="orange"] {
+    background: rgba(44, 44, 44, 0.2);
+    background: -webkit-linear-gradient(90deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));
+    background: -o-linear-gradient(90deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));
+    background: -moz-linear-gradient(90deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));
+    background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));
+}
+
+.page-header {
+    height: 92vh;
+    max-height: 1050px;
+    padding: 0;
+    color: #FFF;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    margin-top: -22px;
+    margin-bottom:0px;
+}
+
+.galaxybar{
+  padding-top:200px;
+}
+
+.spacer{
+  padding-bottom:90px;
+}
+
+.spacer img{
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+  transition: all 0.1s ease-in-out;
+}
+
+.spacer img:hover{
+  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+  margin-top: -2px;
+  margin-bottom: 2px;
+  -webkit-transition: 2s ease;
+  -moz-transition: 1s ease;
+  -ms-transition: 1s ease;
+  -o-transition: 1s ease;
+  transition: 1s ease;
+}
+
+.h1-seo {
+    font-size: 2.8em;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+h3{
+    font-size: 2em;
+    margin-bottom: 30px;
+    line-height: 1.4em;
+}
+
+.btn-primary,.btn-primary:hover,.btn-primary:focus {
+    background-color: #f96332;
+    color: #FFFFFF;
+    margin: 0 0px 10px;
+    font-weight: 400;
+    font-size: 0.8571em;
+    line-height: 1.35em;
+    border: none;
+    padding: 11px 22px;
+    margin-right: 17px;
+}
+
+p{
+  line-height: 30px;
+}
+
+h2{
+  padding-bottom: 30px;
+}
+
+.dark-footer {
+    background: #222;
+    padding: 40px 0 40px 0;
+}
