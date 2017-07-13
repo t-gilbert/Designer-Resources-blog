@@ -12,12 +12,11 @@
     <div class="container">
         <div class="alert-icon">
           <span class="nc-like-2"></span>
-            <i class="now-ui-icons ui-2_like"></i>
         </div>
-        <strong>Well done!</strong> You successfully read this important alert message.
+        <strong>Well done! You successfully Updated your post</strong>
         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">
-                <i class="now-ui-icons ui-1_simple-remove"></i>
+                <i class=""></i>
             </span>
         </button>
     </div>
@@ -28,12 +27,11 @@
   <div class="alert alert-danger" role="alert">
     <div class="container">
         <div class="alert-icon">
-            <i class="now-ui-icons ui-2_like"></i>
         </div>
-        <strong>Well done!</strong> You successfully read this important alert message.
+      <strong>You successfully deleted your post</strong>
         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">
-                <i class="now-ui-icons ui-1_simple-remove"></i>
+                <i class=""></i>
             </span>
         </button>
     </div>
