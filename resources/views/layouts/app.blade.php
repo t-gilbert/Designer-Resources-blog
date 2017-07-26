@@ -18,13 +18,7 @@
       @include('inc.navbar')
         <!-- error messages that is in the inc folder -->
           @include('inc.messages')
-          <!-- Content for front page -->
           @yield('content')
-          <!-- Content for about page -->
-          @yield('about')
-            <!-- Content for contact page -->
-          @yield('contact')
-
 </div
 
     <!-- Scripts -->

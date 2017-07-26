@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('contact')
+@section('content')
   <div class="container text-center">
     <h2>{{$title}}</h2>
     <p>Have any questions, need help or just want to say hi. Contact us below, we will get back to you.</p>
